@@ -1,0 +1,22 @@
+﻿Source.obj : error LNK2001: unresolved external symbol __imp__al_init_image_addon
+Source.obj : error LNK2001: unresolved external symbol __imp__al_init_ttf_addon
+Source.obj : error LNK2001: unresolved external symbol __imp__al_destroy_font
+Source.obj : error LNK2001: unresolved external symbol __imp__al_init_font_addon
+Source.obj : error LNK2001: unresolved external symbol __imp__al_load_ttf_font
+Source.obj : error LNK2001: unresolved external symbol __imp__al_init_native_dialog_addon
+Source.obj : error LNK2001: unresolved external symbol __imp__al_install_audio
+Source.obj : error LNK2001: unresolved external symbol __imp__al_draw_text
+Source.obj : error LNK2001: unresolved external symbol __imp__al_create_sample_instance
+Source.obj : error LNK2001: unresolved external symbol __imp__al_stop_sample_instance
+Source.obj : error LNK2001: unresolved external symbol __imp__al_attach_sample_instance_to_mixer
+Source.obj : error LNK2001: unresolved external symbol __imp__al_draw_textf
+Source.obj : error LNK2001: unresolved external symbol __imp__al_play_sample_instance
+Source.obj : error LNK2001: unresolved external symbol __imp__al_init_primitives_addon
+Source.obj : error LNK2001: unresolved external symbol __imp__al_reserve_samples
+Source.obj : error LNK2001: unresolved external symbol __imp__al_show_native_message_box
+Source.obj : error LNK2001: unresolved external symbol __imp__al_set_sample_instance_playmode
+Source.obj : error LNK2001: unresolved external symbol __imp__al_load_sample
+Source.obj : error LNK2001: unresolved external symbol __imp__al_init_acodec_addon
+Source.obj : error LNK2001: unresolved external symbol __imp__al_get_default_mixer
+Source.obj : error LNK2001: unresolved external symbol __imp__al_draw_filled_rectangle
+C:\Users\Krzyś\Documents\Visual Studio 2015\Projects\Project3\Release\Project3.exe : fatal error LNK1120: 21 unresolved externals
